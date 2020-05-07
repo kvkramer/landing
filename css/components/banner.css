@@ -1,0 +1,10 @@
+.banner {
+  background-image: url("../../images/background.png");
+  height: 400px;
+  width: 100%;
+  color: white;
+}
+
+.banner .container p{
+  color: grey;
+}
